@@ -1,0 +1,11 @@
+README.rst
+setup.cfg
+setup.py
+src/sagemaker/__init__.py
+src/sagemaker/skeleton.py
+src/sagemaker.egg-info/PKG-INFO
+src/sagemaker.egg-info/SOURCES.txt
+src/sagemaker.egg-info/dependency_links.txt
+src/sagemaker.egg-info/not-zip-safe
+src/sagemaker.egg-info/requires.txt
+src/sagemaker.egg-info/top_level.txt
