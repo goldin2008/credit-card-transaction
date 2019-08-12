@@ -8,7 +8,13 @@ Good.
 
 >How to run program
 
-```$ conda create -n boston_housing python=3.6 jupyterlab pandas scikit-learn seaborn```
+```
+$conda create -n boston_housing python=3.6 jupyterlab pandas scikit-learn seaborn
+```
+
+```
+$ python run.py
+```
 
 
 Description
