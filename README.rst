@@ -12,7 +12,6 @@ Good.
 $ conda create -n boston_housing python=3.6 jupyterlab pandas scikit-learn seaborn
 
 $ conda activate boston_housing
-
 ```
 
 
