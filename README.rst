@@ -6,6 +6,8 @@ sagemaker
 Add a short description here!
 Good.
 
+>https://florianwilhelm.info/2018/11/working_efficiently_with_jupyter_lab/
+
 >How to run program
 
 ```
