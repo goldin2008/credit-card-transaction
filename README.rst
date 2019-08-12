@@ -9,17 +9,10 @@ Good.
 >How to run program
 
 ```
-$ python run.py
-```
+$ conda create -n boston_housing python=3.6 jupyterlab pandas scikit-learn seaborn
 
->How to run program
+$ conda activate boston_housing
 
-```
-$conda create -n boston_housing python=3.6 jupyterlab pandas scikit-learn seaborn
-```
-
-```
-$ python run.py
 ```
 
 
