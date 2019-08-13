@@ -11,6 +11,7 @@ Good.
 >How to run program
 
 ```
+jupyter kernelspec list
 vim /Users/yuleinku/Library/Jupyter/kernels/python3/kernel.json
 
 $ conda create -n boston_housing python=3.6 jupyterlab pandas scikit-learn seaborn
