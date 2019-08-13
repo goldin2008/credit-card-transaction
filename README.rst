@@ -11,6 +11,8 @@ Good.
 >How to run program
 
 ```
+vim /Users/yuleinku/Library/Jupyter/kernels/python3/kernel.json
+
 $ conda create -n boston_housing python=3.6 jupyterlab pandas scikit-learn seaborn
 
 $ conda activate boston_housing
